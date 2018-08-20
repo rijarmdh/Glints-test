@@ -1,0 +1,2 @@
+1. no 1 and 2 is in test-no1_2.js  //result is in chrome dev tools (F12 console)
+2. no 3 is in test.html

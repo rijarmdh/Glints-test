@@ -1,0 +1,16 @@
+.card {
+  border: 0.5px solid;
+  border-radius: 8px;
+  border-color: darkgray;
+  margin-left: 5%;
+  width: 50%;
+
+  /* /text-align: center; */
+
+  margin-top: 15px;
+  box-shadow: 1px 1.5px grey;
+}
+
+.card-item {
+  margin: 5px;
+}
